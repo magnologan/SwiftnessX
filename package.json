@@ -219,7 +219,7 @@
     "highlight.js": "^9.13.1",
     "history": "^4.9.0",
     "mousetrap": "^1.6.2",
-    "node-abi": "^2.8.0",
+    "node-abi": "^2.19.1",
     "quill-image-resize-module-react": "^3.0.0",
     "quill-table": "^1.0.0",
     "react": "^16.8.6",
